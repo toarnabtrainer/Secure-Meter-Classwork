@@ -10,28 +10,6 @@ Repository containing session and tutorial resources for Machine and Deep Learni
 
 <hr>
 
-## 🔶 Last Year's Project Presentation Schedule:
-- ✅ **5th May 2025 (Monday) from 10 am to 1 pm for Project Group Numbers 1 to 6.**
-- ✅ **5th May 2025 (Monday) from 3 pm to 6 pm for Project Group Numbers 7 to 13.**
-
-## 🔶 Last Year's Important points to remember regarding Project Presentation:
-- 🔰 In the project presentation, students should ensure stable internet connectivity, working microphone and camera for their laptops, proper college uniform and system ready with project presentation and execution.<br>
-- 🔰 All group members should have proper contribution to project PPT presentation and code demonstration.<br>
-- 🔰 Total project development information should remain available to all group members.<br>
-- 🔰 Each group will get 15 to 20 minutes maximum for their whole project presentation activities.<br>
-- 🔰 Project presentation PPT should have 15 to 16 slides with no program code inclusion.<br>
-- 🔰 Project documentation should have 80+ pages including full coding and according to the project template as shared with. No hard copy is required at my end, only soft copy should remain available.<br>
-- 🔰 Each project should have 4+ ML Model implementations and a comparative study of them in the respective project documentation.<br>
-- 🔰 All groups should ensure their presence in the project presentation 10 minutes before the scheduled slot allotted.<br>
-- 🔰 Each group should try to appear for the project presentation with proper preparations and synchronization.<br>
-- 🔰 ✴️✴️✴️ On the day of presentation, each group will share a **Google Drive link (with anyone can access sharable mode)** with Project Presentation PPT, Project Documentation PDF and Project Complete Code (.IPYNB, .PY Files), All Dataset Files successfully uploaded.<br>
-- 🔰 Project Presentation Slots has been shared in here in this BitBicket account, check it carefully and make yourself available accordingly.<br>
-- 🔰 Please keep one section in your project documentation on Bibliography, Research Citations (related with your project title), E-Books and other References.<br>
-- 🔰 For any consultation, I shall remain available at 9830037439 (my Mobile/WhatsApp number) or mail can be sent to toarnabchak@gmail.com <br>
-- 🔰 I wish you all my best wishes to you for a successful project presentation.<br>
-
-<hr>
-
 **Python Download Link:**<br>
 **Anaconda Download Link:** <br>
 💠 https://www.anaconda.com/products/distribution
