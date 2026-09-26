@@ -1,6 +1,6 @@
 # ✅ Assignments on Pandas
 
-### Here are 5 practical assignments on Pandas covering dataFrame creation, duplicate detection, jion operations, group by and aggregations
+### 🔰 Here are 5 practical assignments on Pandas covering dataFrame creation, duplicate detection, jion operations, group by and aggregations
 
 ## 🔵 Assignment 1 — Employee Data Exploration
 

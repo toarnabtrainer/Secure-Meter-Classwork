@@ -1,6 +1,6 @@
 # ✅ Assignments on Object Oriented Programming (OOP).
 
-### Here are 5 hands-on assignments aligned with the topics: classes/objects, constructors, variables and methods, attributes/access control, inheritance, operator overloading, and abstraction.
+### 🔰 Here are 5 hands-on assignments aligned with the topics: classes/objects, constructors, variables and methods, attributes/access control, inheritance, operator overloading, and abstraction.
 
 ## 🔵 Assignment 1 — Employee Management Using Classes and Objects
 

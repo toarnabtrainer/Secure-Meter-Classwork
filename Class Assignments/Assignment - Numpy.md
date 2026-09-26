@@ -1,6 +1,6 @@
 # ✅ Assignments on NumPy
 
-### Here are 5 practical assignments, progressing from array fundamentals to array manipulation, filtering, missing values, and broadcasting.
+### 🔰 Here are 5 practical assignments, progressing from array fundamentals to array manipulation, filtering, missing values, and broadcasting.
 
 ## 🔵 Assignment 1 — NumPy Array Creation and Exploration
 
